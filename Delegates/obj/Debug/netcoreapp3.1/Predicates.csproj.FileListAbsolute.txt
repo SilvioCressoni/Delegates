@@ -1,0 +1,10 @@
+/Users/silviocressoni/Documents/Studies/DEV/C#/Projects/Predicates/Predicates/bin/Debug/netcoreapp3.1/Predicates.deps.json
+/Users/silviocressoni/Documents/Studies/DEV/C#/Projects/Predicates/Predicates/bin/Debug/netcoreapp3.1/Predicates.runtimeconfig.json
+/Users/silviocressoni/Documents/Studies/DEV/C#/Projects/Predicates/Predicates/bin/Debug/netcoreapp3.1/Predicates.runtimeconfig.dev.json
+/Users/silviocressoni/Documents/Studies/DEV/C#/Projects/Predicates/Predicates/bin/Debug/netcoreapp3.1/Predicates.dll
+/Users/silviocressoni/Documents/Studies/DEV/C#/Projects/Predicates/Predicates/bin/Debug/netcoreapp3.1/Predicates.pdb
+/Users/silviocressoni/Documents/Studies/DEV/C#/Projects/Predicates/Predicates/obj/Debug/netcoreapp3.1/Predicates.csprojAssemblyReference.cache
+/Users/silviocressoni/Documents/Studies/DEV/C#/Projects/Predicates/Predicates/obj/Debug/netcoreapp3.1/Predicates.AssemblyInfoInputs.cache
+/Users/silviocressoni/Documents/Studies/DEV/C#/Projects/Predicates/Predicates/obj/Debug/netcoreapp3.1/Predicates.AssemblyInfo.cs
+/Users/silviocressoni/Documents/Studies/DEV/C#/Projects/Predicates/Predicates/obj/Debug/netcoreapp3.1/Predicates.dll
+/Users/silviocressoni/Documents/Studies/DEV/C#/Projects/Predicates/Predicates/obj/Debug/netcoreapp3.1/Predicates.pdb
