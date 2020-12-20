@@ -36,7 +36,8 @@ namespace Predicates
             Console.WriteLine("------------------------------");
             Console.WriteLine("adding FUNC and Lambda for change all to Upper");
 
-            Func<Product, string> func = ChangeToUpper;
+            //Func<Product, string> func = ChangeToUpper;
+            Func<Product, string> func = p => p.Name.ToUpper(); //another to do using Lambda
 
             List<string> result = list.Select(func).ToList();
             foreach (string r in result)
