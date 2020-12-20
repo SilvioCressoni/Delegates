@@ -1,6 +1,7 @@
 ﻿using System;
 using Predicates.Entities;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace Predicates
 {
@@ -31,6 +32,19 @@ namespace Predicates
             {
                 Console.WriteLine(p.ToString());
             }
+
+            Console.WriteLine("------------------------------");
+            Console.WriteLine("adding FUNC and Lambda for change all to Upper");
+
+            Func<Product, string> func = ChangeToUpper;
+
+            List<string> result = list.Select(func).ToList();
+            foreach (string r in result)
+            {
+                Console.WriteLine(r);
+            }
+
+
         }
 
         // 1 - commented due being using lambda on the method removeAll.
@@ -44,6 +58,11 @@ namespace Predicates
         static void UpdatedPrice(Product p)
         {
             p.Price += p.Price * 0.1;
+        }
+
+        static string ChangeToUpper(Product p)
+        {
+            return p.Name.ToUpper();
         }
     }
 }

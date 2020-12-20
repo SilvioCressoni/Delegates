@@ -1,0 +1,10 @@
+/Users/silviocressoni/Documents/Studies/DEV/C#/Projects/Delegates/Delegates/bin/Debug/netcoreapp3.1/Delegates.deps.json
+/Users/silviocressoni/Documents/Studies/DEV/C#/Projects/Delegates/Delegates/bin/Debug/netcoreapp3.1/Delegates.runtimeconfig.json
+/Users/silviocressoni/Documents/Studies/DEV/C#/Projects/Delegates/Delegates/bin/Debug/netcoreapp3.1/Delegates.runtimeconfig.dev.json
+/Users/silviocressoni/Documents/Studies/DEV/C#/Projects/Delegates/Delegates/bin/Debug/netcoreapp3.1/Delegates.dll
+/Users/silviocressoni/Documents/Studies/DEV/C#/Projects/Delegates/Delegates/bin/Debug/netcoreapp3.1/Delegates.pdb
+/Users/silviocressoni/Documents/Studies/DEV/C#/Projects/Delegates/Delegates/obj/Debug/netcoreapp3.1/Delegates.csprojAssemblyReference.cache
+/Users/silviocressoni/Documents/Studies/DEV/C#/Projects/Delegates/Delegates/obj/Debug/netcoreapp3.1/Delegates.AssemblyInfoInputs.cache
+/Users/silviocressoni/Documents/Studies/DEV/C#/Projects/Delegates/Delegates/obj/Debug/netcoreapp3.1/Delegates.AssemblyInfo.cs
+/Users/silviocressoni/Documents/Studies/DEV/C#/Projects/Delegates/Delegates/obj/Debug/netcoreapp3.1/Delegates.dll
+/Users/silviocressoni/Documents/Studies/DEV/C#/Projects/Delegates/Delegates/obj/Debug/netcoreapp3.1/Delegates.pdb
