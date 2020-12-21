@@ -45,6 +45,18 @@ namespace Predicates
                 Console.WriteLine(r);
             }
 
+            Console.WriteLine("------------------------------");
+            Console.WriteLine("------   ADDING LINQ ----------");
+
+            int[] number = new int[] { 1, 2, 3, 4, 5 };
+
+            var count = number.Where(x => x % 2 == 0).Select(x => x * 2);
+
+            foreach (int n in count)
+            {
+                Console.WriteLine(n);
+            }
+
 
         }
 
